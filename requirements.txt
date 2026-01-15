@@ -1,0 +1,6 @@
+selenium
+pytesseract
+requests
+pandas
+pyyaml
+openpyxl
